@@ -10,3 +10,6 @@ lazy val root = project
 
     libraryDependencies += "org.scalameta" %% "munit" % "1.3.6" % Test
   )
+
+// Eigener Kombi-Befehl "checkAll" oder "prepare"
+addCommandAlias("checkAll", "; scalafmtAll ; Test / test")

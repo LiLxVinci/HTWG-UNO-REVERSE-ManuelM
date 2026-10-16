@@ -8,7 +8,7 @@
     List("Green 9", "Red 2", "Blue 4", "Yellow 6")
   )
   val playedCards = List("Red 8", "Blue 8")
-  val topCard = Some("Blue 8")
+  val topCard     = Some("Blue 8")
 
   println(UnoPlayingField.game_information(2, players, playedCards, topCard))
   println("\nVisible cards and hidden card backs:")

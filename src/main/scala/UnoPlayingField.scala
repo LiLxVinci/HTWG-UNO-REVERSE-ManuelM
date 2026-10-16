@@ -19,12 +19,12 @@ object UnoPlayingField:
   ): String =
     val playerStatus = players.zipWithIndex.map { case (hand, index) =>
       val playerNumber = index + 1
-      val cards = hand.map(card => s"[$card]").mkString(" ")
+      val cards        = hand.map(card => s"[$card]").mkString(" ")
       s"p$playerNumber: ${hand.size} cards [$cards]"
     }
 
     val played = playedCards.map(card => s"[$card]").mkString(" ")
-    val top = topCard.map(card => s"[$card]").getOrElse("none")
+    val top    = topCard.map(card => s"[$card]").getOrElse("none")
 
     (List(s"Current turn: p$currentPlayer") ++
       playerStatus ++
