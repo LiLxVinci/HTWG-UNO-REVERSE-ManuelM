@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/manuelmuoio/Documents/SoftwareEngineering/Scala/u1/src/main/scala/target/out/jvm/scala-3.8.4/scala/scala_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/manuelmuoio/Documents/SoftwareEngineering/Scala/u1/src/main/scala/target/out/jvm/scala-3.8.4/scala/classes/Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/manuelmuoio/Documents/SoftwareEngineering/Scala/u1/src/main/scala/target/out/jvm/scala-3.8.4/scala/classes/Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/manuelmuoio/Documents/SoftwareEngineering/Scala/u1/src/main/scala/target/out/jvm/scala-3.8.4/scala/classes/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UnoPlayingField$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/manuelmuoio/Documents/SoftwareEngineering/Scala/u1/src/main/scala/target/out/jvm/scala-3.8.4/scala/classes/UnoPlayingField$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UnoPlayingField.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/manuelmuoio/Documents/SoftwareEngineering/Scala/u1/src/main/scala/target/out/jvm/scala-3.8.4/scala/classes/UnoPlayingField.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UnoPlayingField.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/manuelmuoio/Documents/SoftwareEngineering/Scala/u1/src/main/scala/target/out/jvm/scala-3.8.4/scala/classes/UnoPlayingField.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	runGame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/manuelmuoio/Documents/SoftwareEngineering/Scala/u1/src/main/scala/target/out/jvm/scala-3.8.4/scala/classes/runGame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	runGame.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/manuelmuoio/Documents/SoftwareEngineering/Scala/u1/src/main/scala/target/out/jvm/scala-3.8.4/scala/classes/runGame.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-3.8.4/scala/scala_3-0.1.0-SNAPSHOT.jar[0m

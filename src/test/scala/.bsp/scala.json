@@ -1,0 +1,27 @@
+{
+  "name": "scala",
+  "argv": [
+    "/opt/homebrew/Cellar/scala-cli/1.17.1/bin/scala-cli",
+    "--cli-default-scala-version",
+    "3.9.0",
+    "--repository",
+    "file:///opt/homebrew/Cellar/scala/3.9.0/libexec/maven2",
+    "--prog-name",
+    "scala",
+    "--skip-cli-updates",
+    "bsp",
+    "--json-options",
+    "/Users/manuelmuoio/Documents/SoftwareEngineering/Scala/u1/src/test/scala/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/Users/manuelmuoio/Documents/SoftwareEngineering/Scala/u1/src/test/scala/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/Users/manuelmuoio/Documents/SoftwareEngineering/Scala/u1/src/test/scala/.scala-build/ide-envs.json",
+    "/Users/manuelmuoio/Documents/SoftwareEngineering/Scala/u1/src/test/scala/UnoModel.wordsheet.sc"
+  ],
+  "version": "1.17.1",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
